@@ -1,7 +1,5 @@
 # ESIEE-IT - 2023 - Qualité Logiciels <a name="top"></a>
 
-> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/ldumay/esiee-it_2023_qualite_logiciels](https://github.com/ldumay/esiee-it_2023_qualite_logiciels)**
-
 ## Sommaire
 
 - [1 - Pré-requis](#1)
